@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/HOLBERTON%20TOULOUSE-F52757?logo=hippocampus&logoColor=white&style=for-the-badge" alt="HOLBERTON TOULOUSE badge">
 
 ## 📄 <span id="description">À propos</span>
-J'ai 27 ans, je suis actuellement étudiant chez Holberton school à Toulouse. Étant attiré par l'aspect créatif des projets, je souhaiterai  me dirigé vers des compétences lié au front. De plus à l'avenir j'aimerai, sur mon temps libre, acquérir des compétences en AR/VR. 
+J'ai 27 ans, je suis actuellement étudiant chez Holberton school à Toulouse. Étant attiré par l'aspect créatif des projets, je souhaiterai  me dirigé vers des compétences liées au front. De plus à l'avenir j'aimerai, sur mon temps libre, acquérir des compétences en AR/VR. 
 
 
 
